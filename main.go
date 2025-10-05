@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	focusTime := 1 * time.Minute
+	focusTime := 45 * time.Minute
 	breakTime := 5 * time.Minute
 
 	fmt.Println("=== Таймер фокусировки ===")
