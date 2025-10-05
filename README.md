@@ -1,4 +1,4 @@
-# Таймер Фокусировки Attention Focus Timer
+# Таймер Фокусировки Focus Timer
 
 ![Focus Timer](https://img.shields.io/badge/Go-1.19%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
